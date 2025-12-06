@@ -15,7 +15,7 @@ body {
 
 /* 전체 화면 배경 */
 body {
-  background-image: url("/back4.png");
+  background-image: url("back4.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -115,3 +115,4 @@ body::after + svg {
   width: 1400px;
   z-index: 9999;
 }
+
